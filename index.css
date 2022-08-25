@@ -192,6 +192,7 @@ a{
 }
 .colum1 h1{
   font-size: 22px;
+  color: #FFF;
 }
 .colum1 p{
   font-size: 14px;
@@ -203,6 +204,7 @@ a{
 }
 .colum2 h1{
   font-size: 22px;
+  color: #FFF;
 }
 .row{
   margin-top: 20px;
@@ -213,6 +215,7 @@ a{
   height: 36px;
 }
 .row label{
+  color: #fff;
   margin-top: 10px;
   margin-left: 20px;
   color: #C7C7C7;
@@ -222,6 +225,7 @@ a{
 }
 .colum3 h1{
   font-size: 22px;
+  color: #FFF;
 }
 .row2{
   margin-top: 20px;
@@ -232,6 +236,7 @@ a{
   height: 36px;
 }
 .row2 label{
+  color: #fff;
   margin-top: 10px;
   margin-left: 20px;
   max-width: 140px;
