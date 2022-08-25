@@ -39,7 +39,7 @@ a{
     list-style: none;
     display: flex;
     font-weight: 30px;
-    font-size: 2em;
+    font-size: 10vh;
     background-color: transparent;
   }
 .li a {
@@ -74,17 +74,17 @@ a{
  }
  .hero .hero-text h1 {
   color: #FFF;
-  font-size: 50px;
+  font-size: 35vh;
   margin-bottom: 20px;
  }
  .hero .hero-text p {
   color: #FFF;
-  font-size: 25px;
+  font-size: 12vh;
   margin-bottom: 20px;
  }
  .hero .hero-text a {
   color: #333;
-  font-size: 30px;
+  font-size: 15vh;
   background-color: #FFF;
   border: 2px solid #FFF;
   text-decoration: none;
@@ -102,7 +102,7 @@ a{
   padding: 10px;
 }
 .info h2{
-  font-size: 25px;
+  font-size: 19vh;
   text-align: center;
   margin-top: 2vh;
   margin-bottom: 2vh;
