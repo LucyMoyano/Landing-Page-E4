@@ -74,17 +74,17 @@ a{
  }
  .hero .hero-text h1 {
   color: #FFF;
-  font-size: 50px;
+  font-size: 70px;
   margin-bottom: 20px;
  }
  .hero .hero-text p {
   color: #FFF;
-  font-size: 25px;
+  font-size: 45px;
   margin-bottom: 20px;
  }
  .hero .hero-text a {
   color: #333;
-  font-size: 20px;
+  font-size: 38px;
   background-color: #FFF;
   border: 2px solid #FFF;
   text-decoration: none;
@@ -102,7 +102,7 @@ a{
   padding: 10px;
 }
 .info h2{
-  font-size: 35px;
+  font-size: 45px;
   text-align: center;
   margin-top: 2vh;
   margin-bottom: 2vh;
@@ -152,7 +152,7 @@ a{
 .card .contenido-card p{
 	line-height: 1.8;
 	color: #6a6a6a;
-	font-size: 14px;
+	font-size: 20px;
 	margin-bottom: 5px;
 }
 .card .contenido-card a{
