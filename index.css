@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    @import ulr: (https://fonts.google.com/specimen/Antonio?query=antonio)
+    @import url: (https://fonts.google.com/specimen/Antonio?query=antonio)
     font-family: "Antonio";
 }
 .body{
