@@ -38,7 +38,7 @@ a{
     float: left;
     list-style: none;
     display: flex;
-    font-weight: 300;
+    font-weight: 30px;
     font-size: 2em;
     background-color: transparent;
   }
@@ -74,12 +74,12 @@ a{
  }
  .hero .hero-text h1 {
   color: #FFF;
-  font-size: 74px;
+  font-size: 50px;
   margin-bottom: 20px;
  }
  .hero .hero-text p {
   color: #FFF;
-  font-size: 30px;
+  font-size: 25px;
   margin-bottom: 20px;
  }
  .hero .hero-text a {
@@ -102,7 +102,7 @@ a{
   padding: 10px;
 }
 .info h2{
-  font-size: 35px;
+  font-size: 25px;
   text-align: center;
   margin-top: 2vh;
   margin-bottom: 2vh;
@@ -121,7 +121,7 @@ a{
 	margin-top: 20px;
 	text-align: center;
 	color: #7a7a7a;
-  font-size: 40px;
+        font-size: 25px;
 }
 .card{
 	width: 100%;
