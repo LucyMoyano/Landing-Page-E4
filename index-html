@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UFT-8
+<meta name="viewport" content="width=device-width, initial-scale=1" >
+<link rel="stylesheet" href="index.css" /> 
+<link rel="preconnect" href="http://fonts.cdnfonts.com/css/antonio">
+<link href="http://fonts.cdnfonts.com/css/antonio" rel="stylesheet">
+<title>Landing Page E4</title>
+</head>
+<body>
+   <header class="menu">
+    <img src="Archivos/logo.png" alt="logo LM Estudio de Fotografia"
+    <nav>
+        <ul>
+          <li class="list-nav"> <a href="Inicio"> Inicio</a> </li>
+          <li class="list-nav"> <a href="Nosotros"> Sobre Nosotros</a> </li>
+          <li class="list-nav"> <a href="Portfolio"> Portfolio</a> </li>
+          <li class="list-nav"> <a href="Servicios"> Servicios </a> </li>
+          <li class="list-nav"> <a href="Contacto"> Contacto</a> </li>
+        </nav>
+   </header>
+   <div class="hero">
+    <img src="Archivos/1.png"alt="Hero Image">
+    <div class="hero-text">
+    <h1>Moda Estilismo Retoque Fotográfico</h1>
+    <br>
+    <p> Generamos estrategias que nos permiten realizar un abordaje integral de los proyectos: </p>
+    <p> Definimos objetivos, realizamos producciones de<strong> fotografía, video y diseño de contenidos</strong>, teniendo control sobre todo el proceso de diseño y ejecución</p>
+    <br>
+    <a href="#" title="call to action button">Conoce nuestros trabajos</a></div>
+    </div>
+<main>
+    <section class="info">
+      <div class="contenedor">
+        <h2>¿Queres mejorar la imagen de tu marca?</h2>
+        <h2>Junto a mi equipo podemos crear desde el concepto, la producción y el contenido que publicas en tus redes sociales</h2>
+
+</div>
+    </section>
+<section class="cards">
+  <div class="title-cards">
+		<h2>Servicios que Ofrecemos</h2>
+	</div>
+<div class="container-card">
+	
+<div class="card">
+	<figure>
+		<img src="/Archivos/9.png">
+	</figure>
+	<div class="contenido-card">
+		<h3>CAMPAÑAS Y CONTENIDO PARA REDES</h3>
+		<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. </p>
+		<a href="#">Leer Màs</a>
+	</div>
+</div>
+<div class="card">
+	<figure>
+		<img src="/Archivos/4.png">
+	</figure>
+	<div class="contenido-card">
+		<h3>CONTENIDO AUDIOVISUAL</h3>
+		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+		<a href="#">Leer Màs</a>
+	</div>
+</div>
+<div class="card">
+	<figure>
+		<img src="/Archivos/10.png">
+	</figure>
+	<div class="contenido-card">
+		<h3>RETOQUE FOTOGRÁFICO</h3>
+		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+		<a href="#">Leer Màs</a>
+	</div>
+</div>
+</div>
+    </section>
+   </main>
+</body>
+</html>
